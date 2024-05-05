@@ -11,9 +11,13 @@
 
 ## Official Hackaton 🔥
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Khaniee&repo=hackaton_ifm)](https://github.com/Khaniee/hackaton_ifm) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dream-IT-MG&repo=devfest_hackaton)](https://github.com/Khaniee/devfest_hackaton)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dream-IT-MG&repo=webcup_2024.frontend)](https://github.com/Khaniee/webcup_2024.frontend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dream-IT-MG&repo=hackathon-zah-geek-juin-2023)](https://github.com/Dream-IT-MG/hackathon-zah-geek-juin-2023)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Khaniee&repo=hackaton_ifm)](https://github.com/Khaniee/hackaton_ifm)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dream-IT-MG&repo=devfest_hackaton)](https://github.com/Dream-IT-MG/devfest_hackaton)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dream-IT-MG&repo=webcup_2024.frontend)](https://github.com/Dream-IT-MG/webcup_2024.frontend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dream-IT-MG&repo=webcup_2024.backend)](https://github.com/Dream-IT-MG/webcup_2024.backend)
 
 ## Side Project 🌟
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Khaniee&repo=app_commande_produit)](https://github.com/Khaniee/app_commande_produit) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Khaniee&repo=calendar_app)](https://github.com/Khaniee/calendar_app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Khaniee&repo=app_commande_produit)](https://github.com/Khaniee/app_commande_produit)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Khaniee&repo=calendar_app)](https://github.com/Khaniee/calendar_app)
