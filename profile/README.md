@@ -16,6 +16,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dream-IT-MG&repo=devfest_hackaton)](https://github.com/Dream-IT-MG/devfest_hackaton)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dream-IT-MG&repo=webcup_2024.frontend)](https://github.com/Dream-IT-MG/webcup_2024.frontend)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dream-IT-MG&repo=webcup_2024.backend)](https://github.com/Dream-IT-MG/webcup_2024.backend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dream-IT-MG&repo=luckycoding-frontend.webcup_2025)](https://github.com/Dream-IT-MG/luckycoding-frontend.webcup_2025)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dream-IT-MG&repo=luckycoding-backend.webcup_2025)](https://github.com/Dream-IT-MG/luckycoding-backend.webcup_2025)
 
 ## Side Project 🌟
 
